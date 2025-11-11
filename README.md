@@ -10,7 +10,7 @@ A one-page Power BI dashboard for a café chain that highlights **Total Sales**,
 ## Dashboard
 - **Dashboard (view/download):** https://drive.google.com/file/d/1I4pgKQFayISlbFtzcJkFHP840umSqktY/view?usp=sharing
 
-![Image]https://drive.google.com/file/d/1I4pgKQFayISlbFtzcJkFHP840umSqktY/view?usp=sharing
+![Image]https://github.com/ajanta-analyst/Power_BI_Project_Coffee_Haven_Half_Time_Sales_Review/blob/main/Coffee%20Heven%20.png
 
 
 
