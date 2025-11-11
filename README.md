@@ -10,7 +10,7 @@ A one-page Power BI dashboard for a café chain that highlights **Total Sales**,
 ## Dashboard
 - **Dashboard (view/download):** https://drive.google.com/file/d/1I4pgKQFayISlbFtzcJkFHP840umSqktY/view?usp=sharing
 
-![Image](https://github.com/user-attachments/assets/1aa84a67-dffc-420b-98d5-a183ef9b4693)
+![Image]https://drive.google.com/file/d/1I4pgKQFayISlbFtzcJkFHP840umSqktY/view?usp=sharing
 
 
 
